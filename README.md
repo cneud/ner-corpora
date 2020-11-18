@@ -2,8 +2,8 @@
 
 ### ner-corpora
 Named Entity Recognition corpus for (historical) Dutch, French and German from [Europeana Newspapers](http://www.europeana-newspapers.eu/named-entity-recognition-for-digitised-newspapers/).
-#### version 0.2 (this version)
-#### [version 0.1](https://github.com/EuropeanaNewspapers/ner-corpora/releases/tag/v0.1)
+#### version 0.2 (this version, work in progress)
+#### [version 0.1](https://github.com/EuropeanaNewspapers/ner-corpora/releases/tag/v0.1) (originally released version)
 
 ### Introduction
 
